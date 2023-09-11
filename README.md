@@ -14,3 +14,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauematheus23&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cauematheus23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+# Meus Cursos
+* [Python3 Mundo 1, 2 e 3 - Curso em Vídeo](https://github.com/cauematheus23/Exercicios-Python3)
+* [Git e GitHub - Curso em Vídeo](https://github.com/cauematheus23/projeto-site)
