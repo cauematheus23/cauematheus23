@@ -1,4 +1,4 @@
-### Olá, me chamo Cauê Matheus ! 👋
+### Hello, i am Cauê Matheus ! 👋
 
 - 🔭 I'm currently a trainee at 5by5 
 - 📫 How to reach me
