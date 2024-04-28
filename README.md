@@ -1,7 +1,6 @@
 ### Olá, me chamo Cauê Matheus ! 👋
 
-- 🔭 I’m currently working on a gas station as cashier
-- 🌱 I’m currently learning Python for database and BackEnd through online courses, Java and SQL database in college
+- 🔭 I'm currently a trainee at 5by5 
 - 📫 How to reach me
    <div>
 <a href="https://www.instagram.com/cauematheus_23/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
